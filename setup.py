@@ -13,7 +13,7 @@ setup(
     description="Um pacote simples para cálculo de IMC",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/seu-usuario/projeto_imc",
+    url="https://github.com/theophiloweb/package_imc_dio",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
